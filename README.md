@@ -16,7 +16,7 @@ Using the provided HTML template to get started:
     - Font-size of paragraphs
     - Background color of the page
 - **Challenge 1** Use CSS to:
-    - Increase the spacing lines in your paragrapgs
+    - Increase the spacing lines in your paragraphs
     - Center align your headers
     - Add a colored underline to your headers
 - **Challenge 2** Add a link to different websites ie. Wikipedia page
