@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+}
+h1 {
+  font-family: monospace;
+  color: azure;
+  font-size: 70px;
+  text-align: center;
+  text-decoration: gray underline;
+}
+h2 {
+  font-family: monospace;
+  color: azure;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: gray underline;
+}
+img {
+  width: 1200px;
+  margin-left: 20px;
+  position: relative;
+  top: 50px;
+}
+/* the color is the most comfy color that I've tried with a black background so far  */
+.post {
+  color: #d9ba71;
+  margin-left: 370px;
+  font-size: 40px;
+  margin-top: 70px;
+}
+p {
+  color: #d9ba71;
+  text-align: center;
+  font-size: 25px;
+  line-height: 50px;
+}
+/* so cool isn't it? */
+.eq {
+  font-size: 90px;
+}
